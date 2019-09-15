@@ -1,0 +1,9 @@
+Boa noite,
+
+- Os projetos foram feitos no Delphi Community, versão Rio 10.3.2.
+- Firebird usado 2.5.3.
+- Os scripts de banco estão anexos, junto com as bases.
+
+
+Atenciosamente,
+André Reis
